@@ -1,0 +1,42 @@
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: burlywood;
+    margin: 50 auto;
+    color: darkslategrey;
+}
+h1 {
+    font-size:30px;
+    font-weight: bold;  
+}
+ .intro, .kind, .head {
+    align-items: center;
+    font-size: 16px;
+}
+h3{
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+#A, #thanks{
+    font-size: 25px;
+    color:darkslategrey; 
+}
+ table {
+    box-sizing: content-box;
+    width: 40%;
+    border: 0.1em solid;
+}td {    
+    border: 0.1em solid;
+}
+     
+th {    
+    border: 0.1em solid;
+    font-size: 16px;
+}
+ .note {
+text-align: left;
+box-sizing: border-box;
+width:40%;
+ }
+ 
